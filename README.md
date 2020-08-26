@@ -1,10 +1,5 @@
 ## LaravelPackage
-[![Build Status](https://travis-ci.org/Crinsane/LaravelPackage.png?branch=master)](https://travis-ci.org/Crinsane/LaravelPackage)
-[![Total Downloads](https://poser.pugx.org/smileraj/laravelpackage/downloads.png)](https://packagist.org/packages/smileraj/laravelpackage)
-[![Latest Stable Version](https://poser.pugx.org/smileraj/laravelpackage/v/stable)](https://packagist.org/packages/smileraj/laravelpackage)
-[![Latest Unstable Version](https://poser.pugx.org/smileraj/laravelpackage/v/unstable)](https://packagist.org/packages/smileraj/laravelpackage)
-[![License](https://poser.pugx.org/smileraj/laravelpackage/license)](https://packagist.org/packages/smileraj/laravelpackage)
-
+[![Latest Stable Version](https://poser.pugx.org/smileraj/shoppingcart/v)](//packagist.org/packages/smileraj/shoppingcart) [![Total Downloads](https://poser.pugx.org/smileraj/shoppingcart/downloads)](//packagist.org/packages/smileraj/shoppingcart) [![Latest Unstable Version](https://poser.pugx.org/smileraj/shoppingcart/v/unstable)](//packagist.org/packages/smileraj/shoppingcart) [![License](https://poser.pugx.org/smileraj/shoppingcart/license)](//packagist.org/packages/smileraj/shoppingcart)
 
 A simple laravelpackage implementation for Laravel.
 
